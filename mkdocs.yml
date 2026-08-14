@@ -1,0 +1,31 @@
+site_name: 调度自动化
+site_url: https://wudongdeqiang.github.io/EPSDA/
+
+theme:
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - search.suggest
+    - search.highlight
+
+markdown_extensions:
+  - footnotes
+  - tables
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.tabbed
+  - attr_list
+  - md_in_html
+
+nav:
+  - 首页: index.md
+  - 技术文章:
+      - 示例文章: demo.md
