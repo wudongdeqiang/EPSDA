@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://wudongdeqiang.github.io/EPSDA/demo/</loc>
-         <lastmod>2026-08-14</lastmod>
+         <loc>https://wudonghdeqiang.github.io/EPSDA/</loc>
+         <lastmod>2026-08-17</lastmod>
+    </url>
+    <url>
+         <loc>https://wudonghdeqiang.github.io/EPSDA/104/</loc>
+         <lastmod>2026-08-17</lastmod>
+    </url>
+    <url>
+         <loc>https://wudonghdeqiang.github.io/EPSDA/CDT/</loc>
+         <lastmod>2026-08-17</lastmod>
+    </url>
+    <url>
+         <loc>https://wudonghdeqiang.github.io/EPSDA/develop/</loc>
+         <lastmod>2026-08-17</lastmod>
     </url>
 </urlset>
