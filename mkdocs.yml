@@ -1,5 +1,5 @@
-site_name: 调度自动化
-site_url: https://wudongdeqiang.github.io/EPSDA/
+site_name: 生活工作-碎碎念
+site_url: https://wudonghdeqiang.github.io/EPSDA/
 
 theme:
   name: material
@@ -27,5 +27,14 @@ markdown_extensions:
 
 nav:
   - 首页: index.md
-  - 技术文章:
-      - 示例文章: demo.md
+  - 专业随想:
+      - 调度自动化主站发展历程: develop.md
+      - 调度自动化主站规约-CDT: CDT.md
+      - 调度自动化主站规约-101: 101.md
+  - 工作实战:
+      - 示例: 1.md
+  - 测试验证:
+      - 示例: 1.md      
+  - 读书读书:
+      - 示例: 1.md      
+  
