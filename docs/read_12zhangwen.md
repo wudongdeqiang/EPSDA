@@ -1,4 +1,4 @@
-皇权的十二章纹*
+*皇权的十二章纹*
 
 ##引子
 周末读蔡东潘《民国通俗演义》，至第十三回，袁世凯制定各项制度，有文如下：
@@ -8,13 +8,13 @@
 ![封皮](./images/MGTS-fm.jpg)
 
 
-111
+
 ![内容](./images/MGTS-12zw.jpg)
 
 
-<img src="./images/MGTS-fm.jpg" width="20%" height="20%">
+<img src="/docs/images/MGTS-fm.jpg" width="20%" height="20%">
 
-<img src="./images/MGTS-12zw.jpg" width="22%" height="22%">
+<img src="../images/MGTS-12zw.jpg" width="22%" height="22%">
 
 
 对文中“日月星辰山龙华虫宗彝藻火粉米黼黻十二章”不太了解，只是感觉有点古怪，从查阅资料知此十二物称之为“十二章纹”，是封建皇权的象征，可见老袁皇权端倪。
@@ -22,7 +22,7 @@
 ##十二章纹是什么
 
 ![十二章纹](.images/MGTS-12zwt.jppng)
-
+<img src="/EPSDA/docs/images/MGTS-12zwt.jpg" width="22%" height="22%">
 
 
 十二章纹是中国古代帝王礼服上绘绣的十二种纹饰：日、月、星辰、山、龙、华虫、宗彝、藻、火、粉米、黼、黻等， 通称“十二章”，是中国帝制时代朝服的服饰等级标志。绣有章纹的礼服称为“章服”。
